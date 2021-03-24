@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2540" />
-    <option name="newTranslationDialogY" value="494" />
+    <option name="newTranslationDialogX" value="2375" />
+    <option name="newTranslationDialogY" value="483" />
     <histories>
+      <item value="ONE_HOUR" />
       <item value="roomReservations" />
       <item value="close&#10;" />
       <item value="trash" />
@@ -52,7 +53,6 @@
       <item value="MIN TREEIFY CAPACITY" />
       <item value="UNTREEIFY THRESHOLD" />
       <item value="TREEIFY THRESHOLD" />
-      <item value="Integer" />
     </histories>
     <option name="languageScores">
       <map>
