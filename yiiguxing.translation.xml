@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2375" />
     <option name="newTranslationDialogY" value="483" />
     <histories>
+      <item value="docking&#10;" />
+      <item value="c" />
       <item value="ONE_HOUR" />
       <item value="roomReservations" />
       <item value="close&#10;" />
@@ -31,7 +33,6 @@
       <item value="commonCheck" />
       <item value="状态" />
       <item value="存在" />
-      <item value="c" />
       <item value="check in" />
       <item value="checkin" />
       <item value="已经入住" />
@@ -52,7 +53,6 @@
       <item value="DEFAULT INITIAL CAPACITY" />
       <item value="MIN TREEIFY CAPACITY" />
       <item value="UNTREEIFY THRESHOLD" />
-      <item value="TREEIFY THRESHOLD" />
     </histories>
     <option name="languageScores">
       <map>
