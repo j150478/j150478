@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2394" />
+    <option name="newTranslationDialogX" value="2418" />
     <option name="newTranslationDialogY" value="493" />
     <histories>
+      <item value="handle&#10;" />
+      <item value="ha " />
       <item value="Batch" />
       <item value="make net Association" />
       <item value="make n Association" />
@@ -51,8 +53,6 @@
       <item value="checkin" />
       <item value="已经入住" />
       <item value="yi" />
-      <item value="WAIT PROCESS" />
-      <item value="WAIT_PROCESS" />
     </histories>
     <option name="languageScores">
       <map>
