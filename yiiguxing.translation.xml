@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2375" />
-    <option name="newTranslationDialogY" value="483" />
+    <option name="newTranslationDialogX" value="2381" />
+    <option name="newTranslationDialogY" value="488" />
     <histories>
+      <item value="建立关联" />
+      <item value="建立关联&#10;" />
+      <item value="j" />
       <item value="常量" />
       <item value="常liang" />
       <item value="常亮" />
@@ -50,9 +53,6 @@
       <item value="s" />
       <item value="专属" />
       <item value="zhuan shu" />
-      <item value="独特" />
-      <item value="d" />
-      <item value="时间段" />
     </histories>
     <option name="languageScores">
       <map>
