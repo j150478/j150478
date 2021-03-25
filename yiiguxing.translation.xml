@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2381" />
-    <option name="newTranslationDialogY" value="488" />
+    <option name="newTranslationDialogX" value="2387" />
+    <option name="newTranslationDialogY" value="493" />
     <histories>
+      <item value="make net Association" />
+      <item value="make n Association" />
+      <item value="make Ntw Association" />
+      <item value="make NtwAssociation" />
+      <item value="makeNtwAssociation" />
       <item value="建立关联" />
       <item value="建立关联&#10;" />
       <item value="j" />
@@ -48,11 +53,6 @@
       <item value="WAIT PROCESS" />
       <item value="WAIT_PROCESS" />
       <item value="CONFIRM" />
-      <item value="说明" />
-      <item value="shuo" />
-      <item value="s" />
-      <item value="专属" />
-      <item value="zhuan shu" />
     </histories>
     <option name="languageScores">
       <map>
