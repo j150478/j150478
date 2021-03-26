@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2475" />
+    <option name="newTranslationDialogX" value="2508" />
     <option name="newTranslationDialogY" value="493" />
     <histories>
+      <item value="断开&#10;" />
       <item value="isMapping" />
       <item value="isMa" />
       <item value="isMaoo" />
@@ -52,7 +53,6 @@
       <item value="FALI" />
       <item value="listing" />
       <item value="listing&#10;" />
-      <item value="l" />
     </histories>
     <option name="languageScores">
       <map>
