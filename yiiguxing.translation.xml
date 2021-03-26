@@ -1,8 +1,17 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2418" />
+    <option name="newTranslationDialogX" value="2475" />
     <option name="newTranslationDialogY" value="493" />
     <histories>
+      <item value="isMapping" />
+      <item value="isMa" />
+      <item value="isMaoo" />
+      <item value="is" />
+      <item value="销毁" />
+      <item value="xiao'hui" />
+      <item value="xia" />
+      <item value="revoke&#10;" />
+      <item value="re" />
       <item value="handle&#10;" />
       <item value="ha " />
       <item value="Batch" />
@@ -44,15 +53,6 @@
       <item value="listing" />
       <item value="listing&#10;" />
       <item value="l" />
-      <item value="Check" />
-      <item value="common Check" />
-      <item value="commonCheck" />
-      <item value="状态" />
-      <item value="存在" />
-      <item value="check in" />
-      <item value="checkin" />
-      <item value="已经入住" />
-      <item value="yi" />
     </histories>
     <option name="languageScores">
       <map>
