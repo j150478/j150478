@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2535" />
-    <option name="newTranslationDialogY" value="493" />
+    <option name="newTranslationDialogX" value="2553" />
+    <option name="newTranslationDialogY" value="498" />
     <histories>
-      <item value="Clean" />
       <item value="断开&#10;" />
+      <item value="Clean" />
       <item value="isMapping" />
       <item value="isMa" />
       <item value="isMaoo" />
