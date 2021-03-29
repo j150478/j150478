@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2553" />
     <option name="newTranslationDialogY" value="498" />
     <histories>
+      <item value="afternoon" />
       <item value="断开&#10;" />
       <item value="Clean" />
       <item value="isMapping" />
@@ -52,7 +53,6 @@
       <item value="vReservation" />
       <item value="FALIED" />
       <item value="FALI" />
-      <item value="listing" />
     </histories>
     <option name="languageScores">
       <map>
