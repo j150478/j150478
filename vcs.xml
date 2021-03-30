@@ -70,6 +70,10 @@
           <option name="url" value="http://test.eluying.com:91/java/ddll-datacenter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://test.eluying.com:91/java/ddll-rpt-2.0.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
