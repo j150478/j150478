@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2553" />
-    <option name="newTranslationDialogY" value="498" />
+    <option name="newTranslationDialogX" value="2573" />
+    <option name="newTranslationDialogY" value="496" />
     <histories>
+      <item value="remain&#10;" />
+      <item value="re" />
       <item value="afternoon" />
       <item value="断开&#10;" />
       <item value="Clean" />
@@ -14,7 +16,6 @@
       <item value="xiao'hui" />
       <item value="xia" />
       <item value="revoke&#10;" />
-      <item value="re" />
       <item value="handle&#10;" />
       <item value="ha " />
       <item value="Batch" />
@@ -52,7 +53,6 @@
       <item value="Reservation" />
       <item value="vReservation" />
       <item value="FALIED" />
-      <item value="FALI" />
     </histories>
     <option name="languageScores">
       <map>
