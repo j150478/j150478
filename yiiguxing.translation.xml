@@ -1,8 +1,13 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2535" />
-    <option name="newTranslationDialogY" value="495" />
+    <option name="newTranslationDialogX" value="2554" />
+    <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="自营" />
+      <item value="v" />
+      <item value="预设" />
+      <item value="yu" />
+      <item value="Defaut" />
       <item value="类别" />
       <item value="排序" />
       <item value="QUEUE&#10;" />
@@ -48,11 +53,6 @@
       <item value="订正" />
       <item value="din" />
       <item value="Detail" />
-      <item value="multiply" />
-      <item value="divide" />
-      <item value="收入" />
-      <item value="reserve" />
-      <item value="If the specified key is not already associated with a value (or is mapped to {@code null}), attempts to compute its value using the given mapping function and enters it into this map unless {@code null}. &lt;p&gt;If the function returns {@code null} no mapping is recorded. If the function itself throws an (unchecked) exception, the exception is rethrown, and no mapping is recorded. The most common usage is to construct a new object serving as an initial mapped value or memoized result, as in: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new Value(f(k))); }&lt;pre&gt; &lt;p&gt;Or to implement a multi-value map, {@code Map&lt;K,Collection&lt;V&gt;&gt;}, supporting multiple values per key: &lt;pre&gt; {@code map.computeIfAbsent(key, k -&gt; new HashSet&lt;V&gt;()).add(v); }&lt;pre&gt; @implSpec The default implementation is equivalent to the following steps for this {@code map}, then returning the current value or {@code null} if now absent: &lt;pre&gt; {@code if (map.get(key) == null) { V newValue = mappingFunction.apply(key); if (newValue != null) map.put(key, newValue); } }&lt;pre&gt; &lt;p&gt;The default implementation makes no guarantees about synchronization or atomicity properties of this method. Any implementation providing atomicity guarantees must override this method and document its concurrency properties. In particular, all implementations of subinterface {@link java.util.concurrent.ConcurrentMap} must document whether the function is applied once atomically only if the value is not present. @param key key with which the specified value is to be associated @param mappingFunction the function to compute a value @return the current (existing or computed) value associated with the specified key, or null if the computed value is null @throws NullPointerException if the specified key is null and this map does not support null keys, or the mappingFunction is null @throws UnsupportedOperationException if the {@code put} operation is not supported by this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @throws ClassCastException if the class of the specified key or value prevents it from being stored in this map (&lt;a href=&quot;{@docRoot}javautilCollection.htmloptional-restrictions&quot;&gt;optional&lt;a&gt;) @since 1.8" />
     </histories>
     <option name="languageScores">
       <map>
