@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="2554" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="Last" />
       <item value="自定义" />
       <item value="zi" />
       <item value="zi'n'din" />
@@ -52,7 +53,6 @@
       <item value="常liang" />
       <item value="常亮" />
       <item value="chang'liang" />
-      <item value="敞亮" />
     </histories>
     <option name="languageScores">
       <map>
