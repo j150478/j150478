@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="2554" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="自定义" />
+      <item value="zi" />
+      <item value="zi'n'din" />
+      <item value="z" />
       <item value="DEFAULT" />
       <item value="DEFAUT" />
       <item value="Defaut" />
@@ -49,10 +53,6 @@
       <item value="常亮" />
       <item value="chang'liang" />
       <item value="敞亮" />
-      <item value="c" />
-      <item value="docking&#10;" />
-      <item value="ONE_HOUR" />
-      <item value="roomReservations" />
     </histories>
     <option name="languageScores">
       <map>
