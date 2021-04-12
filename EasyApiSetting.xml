@@ -2,7 +2,7 @@
   <component name="EasyApiSetting">
     <option name="builtInConfig" value="" />
     <option name="postmanToken" value="PMAK-6033a71dc760020043f97321-60e7645e18295ecd9c897c2c876dc51cfc" />
-    <option name="yapiServer" value="" />
-    <option name="yapiTokens" value="" />
+    <option name="yapiServer" value="https://yapi.dingdanll.com" />
+    <option name="yapiTokens" value="#&#10;#Mon Apr 12 16:39:59 CST 2021&#10;ddll-pms-accom-web=eece627253db3776067626abc22236bca85f8c486ec3b3f4e9bba1fcc28d8803&#10;" />
   </component>
 </application>
