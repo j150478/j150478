@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="2554" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="email" />
+      <item value="签约人" />
+      <item value="房型" />
       <item value="countdown latch" />
       <item value="countdown " />
       <item value="count down latch" />
@@ -50,9 +53,6 @@
       <item value="is" />
       <item value="销毁" />
       <item value="xiao'hui" />
-      <item value="xia" />
-      <item value="revoke&#10;" />
-      <item value="handle&#10;" />
     </histories>
     <option name="languageScores">
       <map>
