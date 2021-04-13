@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2554" />
     <option name="newTranslationDialogY" value="497" />
     <histories>
+      <item value="特殊" />
+      <item value="t" />
       <item value="email" />
       <item value="签约人" />
       <item value="房型" />
@@ -51,8 +53,6 @@
       <item value="isMa" />
       <item value="isMaoo" />
       <item value="is" />
-      <item value="销毁" />
-      <item value="xiao'hui" />
     </histories>
     <option name="languageScores">
       <map>
