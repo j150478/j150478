@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="2018" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="系统匹配重复" />
+      <item value="系统" />
+      <item value="x" />
+      <item value="xu" />
       <item value="关联" />
       <item value="g" />
       <item value="G" />
@@ -49,10 +53,6 @@
       <item value="排序" />
       <item value="QUEUE&#10;" />
       <item value="domain" />
-      <item value="消费" />
-      <item value="x" />
-      <item value="地区" />
-      <item value="remain&#10;" />
     </histories>
     <option name="languageScores">
       <map>
