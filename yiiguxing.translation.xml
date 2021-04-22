@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="2018" />
     <option name="newTranslationDialogY" value="183" />
     <histories>
+      <item value="初始" />
+      <item value="初始化" />
       <item value="周末" />
       <item value="反向" />
       <item value="fan'xiang" />
@@ -50,9 +52,7 @@
       <item value="count dowm=" />
       <item value="count dowm" />
       <item value="count" />
-      <item value="初始化" />
       <item value="c" />
-      <item value="Init" />
     </histories>
     <option name="languageScores">
       <map>
