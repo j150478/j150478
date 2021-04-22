@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="2018" />
-    <option name="newTranslationDialogY" value="183" />
+    <option name="newTranslationDialogX" value="686" />
+    <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Inventory" />
       <item value="初始" />
       <item value="初始化" />
       <item value="周末" />
@@ -25,7 +26,6 @@
       <item value="zu" />
       <item value="zu'haung" />
       <item value="组成" />
-      <item value="Inventory" />
       <item value="已关联" />
       <item value="y" />
       <item value="fail" />
