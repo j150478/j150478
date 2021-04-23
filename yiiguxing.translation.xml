@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="断开" />
       <item value="bill" />
       <item value="特殊价" />
       <item value="t" />
@@ -52,7 +53,6 @@
       <item value="特殊" />
       <item value="email" />
       <item value="签约人" />
-      <item value="房型" />
     </histories>
     <option name="languageScores">
       <map>
