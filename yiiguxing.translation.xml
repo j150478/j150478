@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="modify Default Price" />
+      <item value="modifyDefaultPrice" />
       <item value="清洁费" />
       <item value="q" />
       <item value="每天" />
@@ -51,8 +53,6 @@
       <item value="房型" />
       <item value="countdown latch" />
       <item value="countdown " />
-      <item value="count down latch" />
-      <item value="count down " />
     </histories>
     <option name="languageScores">
       <map>
