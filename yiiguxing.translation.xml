@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="bill" />
       <item value="特殊价" />
       <item value="t" />
       <item value="modify Default Price" />
@@ -52,7 +53,6 @@
       <item value="email" />
       <item value="签约人" />
       <item value="房型" />
-      <item value="countdown latch" />
     </histories>
     <option name="languageScores">
       <map>
