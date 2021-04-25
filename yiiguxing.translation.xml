@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Inventory" />
       <item value="断开" />
       <item value="d" />
       <item value="bill" />
@@ -15,7 +16,6 @@
       <item value="每天" />
       <item value="美团" />
       <item value="平日" />
-      <item value="Inventory" />
       <item value="初始" />
       <item value="初始化" />
       <item value="周末" />
