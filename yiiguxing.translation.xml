@@ -3,6 +3,13 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="玫红" />
+      <item value="黑莓紫" />
+      <item value="海水蓝" />
+      <item value="静谧蓝" />
+      <item value="棕黄" />
+      <item value="橙色" />
+      <item value="chen'se" />
       <item value="Inventory" />
       <item value="断开" />
       <item value="d" />
@@ -46,13 +53,6 @@
       <item value="xu" />
       <item value="关联" />
       <item value="g" />
-      <item value="G" />
-      <item value="CONFIRM" />
-      <item value="失败" />
-      <item value="S" />
-      <item value="自定义&#10;" />
-      <item value="特殊" />
-      <item value="email" />
     </histories>
     <option name="languageScores">
       <map>
