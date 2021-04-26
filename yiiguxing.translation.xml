@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="自定义" />
+      <item value="z" />
       <item value="玫红" />
       <item value="黑莓紫" />
       <item value="海水蓝" />
@@ -30,7 +32,6 @@
       <item value="fan'xiang" />
       <item value="正向" />
       <item value="zheng'xiang" />
-      <item value="z" />
       <item value="卸载" />
       <item value="x" />
       <item value="拖拽排序" />
@@ -52,7 +53,6 @@
       <item value="系统" />
       <item value="xu" />
       <item value="关联" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
