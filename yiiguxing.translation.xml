@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="公司内对接" />
+      <item value="分销商签约" />
+      <item value="代理商签约" />
+      <item value="顾问号" />
+      <item value="合作推荐" />
+      <item value="到店拜访" />
       <item value="客户新店" />
       <item value="线上自寻" />
       <item value="From" />
@@ -47,12 +53,6 @@
       <item value="ping" />
       <item value="ping'jie" />
       <item value="zu" />
-      <item value="zu'haung" />
-      <item value="组成" />
-      <item value="已关联" />
-      <item value="y" />
-      <item value="fail" />
-      <item value="系统匹配重复" />
     </histories>
     <option name="languageScores">
       <map>
