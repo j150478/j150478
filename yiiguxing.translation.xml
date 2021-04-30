@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="686" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="AUDIT" />
       <item value="公司内对接" />
       <item value="分销商签约" />
       <item value="代理商签约" />
@@ -52,7 +53,6 @@
       <item value="pin'jie" />
       <item value="ping" />
       <item value="ping'jie" />
-      <item value="zu" />
     </histories>
     <option name="languageScores">
       <map>
