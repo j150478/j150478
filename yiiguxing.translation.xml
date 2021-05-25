@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="手动录入" />
+      <item value="s" />
       <item value="delete" />
       <item value="Comments&#10;" />
       <item value="invokers&#10;" />
@@ -51,18 +53,16 @@
       <item value="fan'xiang" />
       <item value="正向" />
       <item value="zheng'xiang" />
-      <item value="卸载" />
-      <item value="x" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="17" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="27" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621342054074" />
+    <option name="lastTrimTime" value="1621905853887" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
