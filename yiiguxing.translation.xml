@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="daily" />
       <item value="other" />
       <item value="手动录入" />
       <item value="s" />
@@ -52,11 +53,10 @@
       <item value="周末" />
       <item value="反向" />
       <item value="fan'xiang" />
-      <item value="正向" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
+        <entry key="CHINESE" value="34" />
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
