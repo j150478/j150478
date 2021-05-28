@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="CLUSTERING" />
+      <item value="CONCURRENTLY" />
       <item value="daily" />
       <item value="other" />
       <item value="手动录入" />
@@ -51,12 +53,10 @@
       <item value="初始" />
       <item value="初始化" />
       <item value="周末" />
-      <item value="反向" />
-      <item value="fan'xiang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="34" />
+        <entry key="CHINESE" value="36" />
         <entry key="ENGLISH" value="27" />
       </map>
     </option>
