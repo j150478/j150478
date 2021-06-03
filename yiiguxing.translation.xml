@@ -5,6 +5,7 @@
     <histories>
       <item value="门市价格" />
       <item value="门市" />
+      <item value="m" />
       <item value="包含" />
       <item value="multi" />
       <item value="计算类型" />
@@ -52,12 +53,11 @@
       <item value="组装" />
       <item value="自定义" />
       <item value="z" />
-      <item value="玫红" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="154" />
+        <entry key="ENGLISH" value="143" />
       </map>
     </option>
   </component>
