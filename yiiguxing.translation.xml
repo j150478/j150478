@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="multi" />
       <item value="计算类型" />
       <item value="计算lei'xin" />
       <item value="计算累心" />
@@ -52,11 +53,10 @@
       <item value="玫红" />
       <item value="黑莓紫" />
       <item value="海水蓝" />
-      <item value="静谧蓝" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
+        <entry key="CHINESE" value="128" />
         <entry key="ENGLISH" value="117" />
       </map>
     </option>
