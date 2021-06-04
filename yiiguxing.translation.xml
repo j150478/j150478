@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="分离数据" />
+      <item value="f" />
       <item value="计算" />
       <item value="actual" />
       <item value="门市价格" />
@@ -51,13 +53,11 @@
       <item value="到店拜访" />
       <item value="客户新店" />
       <item value="线上自寻" />
-      <item value="From" />
-      <item value="组装" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="162" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="156" />
       </map>
     </option>
   </component>
