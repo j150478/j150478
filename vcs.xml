@@ -134,6 +134,10 @@
           <option name="url" value="https://gitlab.dingdanll.com/java/ddll-extra.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.dingdanll.com/java/ddll-message.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
