@@ -3,6 +3,12 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="before" />
+      <item value="after" />
+      <item value="a" />
+      <item value="modify" />
+      <item value="mod" />
+      <item value="modiy" />
       <item value="节日" />
       <item value="图片" />
       <item value="推荐" />
@@ -47,17 +53,11 @@
       <item value="买断" />
       <item value="ma" />
       <item value="dd" />
-      <item value="AUDIT" />
-      <item value="公司内对接" />
-      <item value="分销商签约" />
-      <item value="代理商签约" />
-      <item value="顾问号" />
-      <item value="合作推荐" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="CHINESE" value="205" />
+        <entry key="ENGLISH" value="191" />
       </map>
     </option>
   </component>
