@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="节日" />
       <item value="图片" />
       <item value="推荐" />
       <item value="分离数据" />
@@ -52,12 +53,11 @@
       <item value="代理商签约" />
       <item value="顾问号" />
       <item value="合作推荐" />
-      <item value="到店拜访" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="186" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="191" />
+        <entry key="ENGLISH" value="179" />
       </map>
     </option>
   </component>
