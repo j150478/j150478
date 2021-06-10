@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="过滤" />
+      <item value="g" />
       <item value="应用于" />
       <item value="应用" />
       <item value="适用" />
@@ -51,13 +53,11 @@
       <item value="daily" />
       <item value="other" />
       <item value="手动录入" />
-      <item value="s" />
-      <item value="delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="245" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="237" />
       </map>
     </option>
   </component>
