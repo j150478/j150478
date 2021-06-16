@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="557" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="手机号" />
+      <item value="s'ho" />
+      <item value="sho'j" />
+      <item value="s" />
       <item value="before" />
       <item value="过滤" />
       <item value="g" />
@@ -49,15 +53,11 @@
       <item value="Listing" />
       <item value="refresh" />
       <item value="CLUSTERING" />
-      <item value="CONCURRENTLY" />
-      <item value="daily" />
-      <item value="other" />
-      <item value="手动录入" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="252" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="269" />
+        <entry key="ENGLISH" value="254" />
       </map>
     </option>
   </component>
