@@ -1,8 +1,9 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="557" />
+    <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Link" />
       <item value="同步" />
       <item value="手机号" />
       <item value="s'ho" />
@@ -52,17 +53,16 @@
       <item value="fan'guan" />
       <item value="房源&#10;" />
       <item value="Listing" />
-      <item value="refresh" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="277" />
+        <entry key="CHINESE" value="278" />
         <entry key="ENGLISH" value="262" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623723685970" />
+    <option name="lastTrimTime" value="1624242973309" />
   </component>
   <component name="Settings">
     <option name="translateDocumentation" value="true" />
