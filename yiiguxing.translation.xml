@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="576" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="接受" />
       <item value="Link" />
       <item value="同步" />
       <item value="手机号" />
@@ -52,12 +53,11 @@
       <item value="房源" />
       <item value="fan'guan" />
       <item value="房源&#10;" />
-      <item value="Listing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="286" />
+        <entry key="ENGLISH" value="270" />
       </map>
     </option>
   </component>
