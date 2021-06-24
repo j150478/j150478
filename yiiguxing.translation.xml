@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="576" />
+    <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="封面图片" />
+      <item value="封面tu" />
+      <item value="f" />
       <item value="厨房" />
       <item value="卫浴" />
       <item value="客厅" />
@@ -41,7 +44,6 @@
       <item value="图片" />
       <item value="推荐" />
       <item value="分离数据" />
-      <item value="f" />
       <item value="计算" />
       <item value="actual" />
       <item value="门市价格" />
@@ -51,13 +53,11 @@
       <item value="multi" />
       <item value="计算类型" />
       <item value="计算lei'xin" />
-      <item value="计算累心" />
-      <item value="ji" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="352" />
       </map>
     </option>
   </component>
