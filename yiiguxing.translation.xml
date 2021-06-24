@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="单独" />
+      <item value="dan" />
+      <item value="单数" />
       <item value="封面图片" />
       <item value="封面tu" />
       <item value="f" />
@@ -50,14 +53,11 @@
       <item value="门市" />
       <item value="m" />
       <item value="包含" />
-      <item value="multi" />
-      <item value="计算类型" />
-      <item value="计算lei'xin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="352" />
+        <entry key="CHINESE" value="380" />
+        <entry key="ENGLISH" value="364" />
       </map>
     </option>
   </component>
