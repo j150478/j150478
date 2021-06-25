@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="resource" />
       <item value="Refresh" />
       <item value="单独" />
       <item value="dan" />
@@ -52,11 +53,10 @@
       <item value="actual" />
       <item value="门市价格" />
       <item value="门市" />
-      <item value="m" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="381" />
+        <entry key="CHINESE" value="382" />
         <entry key="ENGLISH" value="364" />
       </map>
     </option>
