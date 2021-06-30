@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="重试" />
       <item value="三十" />
       <item value="30" />
       <item value="过滤" />
@@ -52,12 +53,11 @@
       <item value="modiy" />
       <item value="节日" />
       <item value="图片" />
-      <item value="推荐" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="388" />
+        <entry key="CHINESE" value="425" />
+        <entry key="ENGLISH" value="406" />
       </map>
     </option>
   </component>
