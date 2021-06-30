@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="三十" />
+      <item value="30" />
       <item value="过滤" />
       <item value="检查" />
       <item value="check" />
@@ -51,13 +53,11 @@
       <item value="节日" />
       <item value="图片" />
       <item value="推荐" />
-      <item value="分离数据" />
-      <item value="计算" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="388" />
       </map>
     </option>
   </component>
