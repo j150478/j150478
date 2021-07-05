@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Connect" />
+      <item value="Direct" />
+      <item value="直连" />
+      <item value="zhi'li'na" />
+      <item value="d" />
       <item value="fail" />
       <item value="失败" />
       <item value="重试" />
@@ -48,16 +53,11 @@
       <item value="ling'shi" />
       <item value="l临时" />
       <item value="l" />
-      <item value="after" />
-      <item value="a" />
-      <item value="modify" />
-      <item value="mod" />
-      <item value="modiy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="433" />
-        <entry key="ENGLISH" value="413" />
+        <entry key="CHINESE" value="455" />
+        <entry key="ENGLISH" value="433" />
       </map>
     </option>
   </component>
