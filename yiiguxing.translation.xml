@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Sync" />
       <item value="canal" />
       <item value="entity" />
       <item value="millis" />
@@ -52,11 +53,10 @@
       <item value="手机号" />
       <item value="s'ho" />
       <item value="sho'j" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="478" />
+        <entry key="CHINESE" value="479" />
         <entry key="ENGLISH" value="449" />
       </map>
     </option>
