@@ -3,6 +3,9 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="接收" />
+      <item value="接shou" />
+      <item value="接受" />
       <item value="列" />
       <item value="Sync" />
       <item value="canal" />
@@ -48,16 +51,13 @@
       <item value="超出推送日期限制" />
       <item value="超出推送" />
       <item value="超出" />
-      <item value="接受" />
       <item value="Link" />
       <item value="同步" />
-      <item value="手机号" />
-      <item value="s'ho" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="483" />
-        <entry key="ENGLISH" value="453" />
+        <entry key="CHINESE" value="491" />
+        <entry key="ENGLISH" value="461" />
       </map>
     </option>
   </component>
