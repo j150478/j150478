@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="filter" />
       <item value="接收" />
       <item value="接shou" />
       <item value="接受" />
@@ -52,11 +53,10 @@
       <item value="超出推送" />
       <item value="超出" />
       <item value="Link" />
-      <item value="同步" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="491" />
+        <entry key="CHINESE" value="492" />
         <entry key="ENGLISH" value="461" />
       </map>
     </option>
