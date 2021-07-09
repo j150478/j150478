@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="动态" />
+      <item value="d" />
       <item value="filter" />
       <item value="接收" />
       <item value="接shou" />
@@ -22,7 +24,6 @@
       <item value="Direct" />
       <item value="直连" />
       <item value="zhi'li'na" />
-      <item value="d" />
       <item value="fail" />
       <item value="失败" />
       <item value="重试" />
@@ -52,12 +53,11 @@
       <item value="超出推送日期限制" />
       <item value="超出推送" />
       <item value="超出" />
-      <item value="Link" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="492" />
-        <entry key="ENGLISH" value="461" />
+        <entry key="CHINESE" value="498" />
+        <entry key="ENGLISH" value="467" />
       </map>
     </option>
   </component>
