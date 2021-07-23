@@ -3,8 +3,8 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
-      <item value="关联" />
       <item value="转发" />
+      <item value="关联" />
       <item value="filter" />
       <item value="断开" />
       <item value="d" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="504" />
+        <entry key="CHINESE" value="544" />
+        <entry key="ENGLISH" value="512" />
       </map>
     </option>
   </component>
