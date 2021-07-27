@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="elapsed" />
       <item value="转发" />
       <item value="关联" />
       <item value="filter" />
@@ -52,11 +53,10 @@
       <item value="卫浴" />
       <item value="客厅" />
       <item value="wei'yu" />
-      <item value="w" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="544" />
+        <entry key="CHINESE" value="545" />
         <entry key="ENGLISH" value="512" />
       </map>
     </option>
