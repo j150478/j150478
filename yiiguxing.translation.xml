@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="房源" />
+      <item value="营销" />
       <item value="Minutes" />
       <item value="Min" />
       <item value="Mi" />
@@ -51,13 +53,11 @@
       <item value="单数" />
       <item value="封面图片" />
       <item value="封面tu" />
-      <item value="f" />
-      <item value="厨房" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="547" />
-        <entry key="ENGLISH" value="513" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="531" />
       </map>
     </option>
   </component>
