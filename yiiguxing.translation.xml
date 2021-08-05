@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="Channel" />
+      <item value="filter" />
       <item value="Listing" />
       <item value="房源" />
       <item value="营销" />
@@ -12,7 +14,6 @@
       <item value="elapsed" />
       <item value="转发" />
       <item value="关联" />
-      <item value="filter" />
       <item value="断开" />
       <item value="d" />
       <item value="订单转发" />
@@ -52,11 +53,10 @@
       <item value="单独" />
       <item value="dan" />
       <item value="单数" />
-      <item value="封面图片" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
+        <entry key="CHINESE" value="568" />
         <entry key="ENGLISH" value="531" />
       </map>
     </option>
