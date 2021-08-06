@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="555" />
     <option name="newTranslationDialogY" value="405" />
     <histories>
+      <item value="approval" />
       <item value="Channel" />
       <item value="filter" />
       <item value="Listing" />
@@ -52,11 +53,10 @@
       <item value="Refresh" />
       <item value="单独" />
       <item value="dan" />
-      <item value="单数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
+        <entry key="CHINESE" value="569" />
         <entry key="ENGLISH" value="531" />
       </map>
     </option>
