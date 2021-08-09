@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="408" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="account" />
       <item value="你好" />
       <item value="海内存知己&#10;天涯若比邻" />
       <item value="businessInitialProcess" />
@@ -52,11 +53,10 @@
       <item value="zhi'li'na" />
       <item value="fail" />
       <item value="失败" />
-      <item value="重试" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="616" />
+        <entry key="CHINESE" value="617" />
         <entry key="ENGLISH" value="576" />
       </map>
     </option>
