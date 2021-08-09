@@ -1,8 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="372" />
-    <option name="newTranslationDialogY" value="360" />
+    <option name="newTranslationDialogX" value="408" />
+    <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="你好" />
+      <item value="海内存知己&#10;天涯若比邻" />
       <item value="businessInitialProcess" />
       <item value="businessInitialProcess&#10;" />
       <item value="business Initial Process" />
@@ -51,13 +53,11 @@
       <item value="fail" />
       <item value="失败" />
       <item value="重试" />
-      <item value="三十" />
-      <item value="30" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="579" />
-        <entry key="ENGLISH" value="539" />
+        <entry key="CHINESE" value="611" />
+        <entry key="ENGLISH" value="571" />
       </map>
     </option>
   </component>
@@ -65,6 +65,14 @@
     <option name="lastTrimTime" value="1628474303920" />
   </component>
   <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20200311000396178" />
+      </app-key>
+    </option>
+    <option name="phoneticFontFamily" value="JetBrains Mono" />
+    <option name="primaryFontFamily" value="JetBrains Mono" />
     <option name="translateDocumentation" value="true" />
+    <option name="translator" value="BAIDU" />
   </component>
 </application>
