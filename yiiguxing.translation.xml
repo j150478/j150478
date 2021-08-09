@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="555" />
-    <option name="newTranslationDialogY" value="405" />
+    <option name="newTranslationDialogX" value="372" />
+    <option name="newTranslationDialogY" value="360" />
     <histories>
+      <item value="businessInitialProcess" />
+      <item value="businessInitialProcess&#10;" />
+      <item value="business Initial Process" />
       <item value="deleted" />
       <item value="通过审批" />
       <item value="通过shen" />
@@ -50,13 +53,10 @@
       <item value="重试" />
       <item value="三十" />
       <item value="30" />
-      <item value="过滤" />
-      <item value="检查" />
-      <item value="check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="578" />
+        <entry key="CHINESE" value="579" />
         <entry key="ENGLISH" value="539" />
       </map>
     </option>
