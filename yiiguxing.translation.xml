@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="611" />
-        <entry key="ENGLISH" value="571" />
+        <entry key="CHINESE" value="616" />
+        <entry key="ENGLISH" value="576" />
       </map>
     </option>
   </component>
@@ -72,7 +72,7 @@
     </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translateDocumentation" value="true" />
+    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
     <option name="translator" value="BAIDU" />
   </component>
 </application>
