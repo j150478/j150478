@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="存在" />
       <item value="compatible" />
       <item value="转发" />
       <item value="z" />
@@ -52,13 +53,12 @@
       <item value="REFRESH" />
       <item value="reconsumeTimes" />
       <item value="Connection" />
-      <item value="开通直连" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="635" />
-        <entry key="ESPERANTO" value="41" />
+        <entry key="ENGLISH" value="643" />
+        <entry key="ESPERANTO" value="49" />
       </map>
     </option>
   </component>
