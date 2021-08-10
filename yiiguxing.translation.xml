@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogX" value="408" />
+    <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="compatible" />
+      <item value="转发" />
+      <item value="z" />
       <item value="互斥" />
       <item value="兼容" />
       <item value="兼容检查" />
@@ -30,7 +33,6 @@
       <item value="Min" />
       <item value="Mi" />
       <item value="elapsed" />
-      <item value="转发" />
       <item value="关联" />
       <item value="断开" />
       <item value="d" />
@@ -51,14 +53,12 @@
       <item value="reconsumeTimes" />
       <item value="Connection" />
       <item value="开通直连" />
-      <item value="backend" />
-      <item value="直连关系" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="627" />
-        <entry key="ESPERANTO" value="32" />
+        <entry key="CHINESE" value="637" />
+        <entry key="ENGLISH" value="635" />
+        <entry key="ESPERANTO" value="41" />
       </map>
     </option>
   </component>
