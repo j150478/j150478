@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="408" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="兼容" />
+      <item value="jian" />
       <item value="幂等性" />
       <item value="account" />
       <item value="你好" />
@@ -51,13 +53,12 @@
       <item value="Connect" />
       <item value="Direct" />
       <item value="直连" />
-      <item value="zhi'li'na" />
-      <item value="fail" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="627" />
-        <entry key="ENGLISH" value="586" />
+        <entry key="CHINESE" value="636" />
+        <entry key="ENGLISH" value="603" />
+        <entry key="ESPERANTO" value="8" />
       </map>
     </option>
   </component>
@@ -70,9 +71,13 @@
         <option name="appId" value="20200311000396178" />
       </app-key>
     </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="primaryLanguage" value="ESPERANTO" />
+      </google-translate>
+    </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
     <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
