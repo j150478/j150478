@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="408" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="互斥" />
       <item value="兼容" />
       <item value="兼容检查" />
       <item value="兼容xin" />
@@ -52,13 +53,12 @@
       <item value="开通直连" />
       <item value="backend" />
       <item value="直连关系" />
-      <item value="Connect" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="636" />
-        <entry key="ENGLISH" value="621" />
-        <entry key="ESPERANTO" value="26" />
+        <entry key="ENGLISH" value="627" />
+        <entry key="ESPERANTO" value="32" />
       </map>
     </option>
   </component>
