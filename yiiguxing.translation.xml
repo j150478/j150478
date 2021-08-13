@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="你好" />
+      <item value="d" />
       <item value="存在" />
       <item value="compatible" />
       <item value="转发" />
@@ -14,7 +16,6 @@
       <item value="jian" />
       <item value="幂等性" />
       <item value="account" />
-      <item value="你好" />
       <item value="海内存知己&#10;天涯若比邻" />
       <item value="businessInitialProcess" />
       <item value="businessInitialProcess&#10;" />
@@ -36,7 +37,6 @@
       <item value="elapsed" />
       <item value="关联" />
       <item value="断开" />
-      <item value="d" />
       <item value="订单转发" />
       <item value="订单妆发" />
       <item value="订单" />
@@ -56,8 +56,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="637" />
-        <entry key="ENGLISH" value="643" />
+        <entry key="CHINESE" value="643" />
+        <entry key="ENGLISH" value="649" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
@@ -71,13 +71,8 @@
         <option name="appId" value="20200311000396178" />
       </app-key>
     </option>
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
-    </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="showActionsInContextMenuOnlyWithSelection" value="false" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
