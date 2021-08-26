@@ -3,6 +3,18 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="佣金率" />
+      <item value="佣金lv" />
+      <item value="佣金l" />
+      <item value="佣金" />
+      <item value="佣金旅" />
+      <item value="yong'ji" />
+      <item value="rate" />
+      <item value="rae" />
+      <item value="radio" />
+      <item value="radio_rate" />
+      <item value="_radio_rate" />
+      <item value="commision_radio_rate" />
       <item value="你好" />
       <item value="d" />
       <item value="存在" />
@@ -41,23 +53,11 @@
       <item value="订单妆发" />
       <item value="订单" />
       <item value="s" />
-      <item value="动态" />
-      <item value="接收" />
-      <item value="接shou" />
-      <item value="接受" />
-      <item value="列" />
-      <item value="Sync" />
-      <item value="canal" />
-      <item value="entity" />
-      <item value="millis" />
-      <item value="REFRESH" />
-      <item value="reconsumeTimes" />
-      <item value="Connection" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="643" />
-        <entry key="ENGLISH" value="649" />
+        <entry key="CHINESE" value="653" />
+        <entry key="ENGLISH" value="659" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
