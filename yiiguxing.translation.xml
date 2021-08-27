@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="确认" />
+      <item value="q" />
       <item value="默认" />
       <item value="佣金率" />
       <item value="佣金lv" />
@@ -51,13 +53,11 @@
       <item value="关联" />
       <item value="断开" />
       <item value="订单转发" />
-      <item value="订单妆发" />
-      <item value="订单" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="658" />
-        <entry key="ENGLISH" value="664" />
+        <entry key="CHINESE" value="664" />
+        <entry key="ENGLISH" value="670" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
