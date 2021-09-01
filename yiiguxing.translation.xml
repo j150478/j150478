@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="交集" />
       <item value="spider" />
       <item value="FAILS" />
       <item value="爬虫" />
@@ -52,12 +53,11 @@
       <item value="Channel" />
       <item value="filter" />
       <item value="Listing" />
-      <item value="房源" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="686" />
+        <entry key="CHINESE" value="692" />
+        <entry key="ENGLISH" value="693" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
