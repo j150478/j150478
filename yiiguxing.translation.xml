@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="断开" />
+      <item value="dis" />
       <item value="提示" />
       <item value="t" />
       <item value="排斥" />
@@ -51,13 +53,11 @@
       <item value="通过审批" />
       <item value="通过shen" />
       <item value="通过shen'qi" />
-      <item value="通过sh" />
-      <item value="approval" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="710" />
-        <entry key="ENGLISH" value="711" />
+        <entry key="CHINESE" value="719" />
+        <entry key="ENGLISH" value="720" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
