@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="重新" />
+      <item value="c" />
       <item value="断开" />
       <item value="dis" />
       <item value="提示" />
@@ -51,19 +53,17 @@
       <item value="business Initial Process" />
       <item value="deleted" />
       <item value="通过审批" />
-      <item value="通过shen" />
-      <item value="通过shen'qi" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="719" />
-        <entry key="ENGLISH" value="720" />
+        <entry key="CHINESE" value="728" />
+        <entry key="ENGLISH" value="729" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630131325035" />
+    <option name="lastTrimTime" value="1630563424778" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
