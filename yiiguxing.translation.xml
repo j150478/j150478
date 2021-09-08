@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="存在" />
+      <item value="cun" />
       <item value="api Note" />
       <item value="apiNote" />
       <item value="deprecated" />
@@ -43,7 +45,6 @@
       <item value="_radio_rate" />
       <item value="commision_radio_rate" />
       <item value="你好" />
-      <item value="存在" />
       <item value="compatible" />
       <item value="转发" />
       <item value="z" />
@@ -52,12 +53,11 @@
       <item value="兼容检查" />
       <item value="兼容xin" />
       <item value="jian" />
-      <item value="幂等性" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="756" />
-        <entry key="ENGLISH" value="752" />
+        <entry key="CHINESE" value="763" />
+        <entry key="ENGLISH" value="759" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
