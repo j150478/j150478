@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="补充登录" />
+      <item value="b" />
       <item value="存在" />
       <item value="cun" />
       <item value="api Note" />
@@ -51,13 +53,11 @@
       <item value="互斥" />
       <item value="兼容" />
       <item value="兼容检查" />
-      <item value="兼容xin" />
-      <item value="jian" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="763" />
-        <entry key="ENGLISH" value="759" />
+        <entry key="CHINESE" value="770" />
+        <entry key="ENGLISH" value="766" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
