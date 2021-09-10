@@ -1,9 +1,0 @@
-<application>
-  <component name="EasyApiSetting">
-    <option name="builtInConfig" value="" />
-    <option name="postmanToken" value="PMAK-608915d9f89c3f0043c73ad8-64de00432e95b5cd0c9a611af420dde764" />
-    <option name="postmanWorkspaces" value="#&#10;#Tue Sep 07 10:26:06 CST 2021&#10;ddll-channel-ctrip=3edb1e4b-a755-4d7a-8575-3989de92ce9c&#10;" />
-    <option name="yapiServer" value="https://yapi.dingdanll.com" />
-    <option name="yapiTokens" value="#&#10;#Tue Aug 31 11:10:12 CST 2021&#10;ddll-pms-channel-marketing-web=9e6f5d89eb71fc3875abae21734042dc662ba4f36db1ba26fba2f5a645505e6b&#10;ddll-pms-order-web=a277fab8d9875f807233fc17886bccde91625aa79d9d8d699f191ccccf3c9bdd&#10;ddll-pms-accom-web=eece627253db3776067626abc22236bca85f8c486ec3b3f4e9bba1fcc28d8803&#10;ddll-ota-fliggy-web=1fc92d188115b3a69d2bf43bf2651f93f7d774a795b56b29b94ca35209df0869&#10;ddll-channel-fliggy-web=1fc92d188115b3a69d2bf43bf2651f93f7d774a795b56b29b94ca35209df0869&#10;ddll-channel-meituan-web=8c8f41984edf0676a237baafa2d4678d00aae50eea852bba088f352c5c948cb1&#10;ddll-channel-ctrip-web=1524fa875f4c8ebc412b8ef609627e5fdea7f5b5a8dae89a86a8d7a8edf6240f&#10;" />
-  </component>
-</application>
