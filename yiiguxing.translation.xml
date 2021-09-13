@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="佣金率" />
+      <item value="commission" />
+      <item value="commiss" />
+      <item value="commisionRate" />
       <item value="减" />
       <item value="jian" />
       <item value="commissionRate" />
@@ -37,7 +41,6 @@
       <item value="确认" />
       <item value="q" />
       <item value="默认" />
-      <item value="佣金率" />
       <item value="佣金lv" />
       <item value="佣金l" />
       <item value="佣金" />
@@ -50,20 +53,17 @@
       <item value="_radio_rate" />
       <item value="commision_radio_rate" />
       <item value="你好" />
-      <item value="compatible" />
-      <item value="转发" />
-      <item value="z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="776" />
-        <entry key="ENGLISH" value="771" />
+        <entry key="CHINESE" value="787" />
+        <entry key="ENGLISH" value="782" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630996992059" />
+    <option name="lastTrimTime" value="1631432087103" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
