@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="正常" />
+      <item value="normal" />
       <item value="佣金率" />
       <item value="commission" />
       <item value="commiss" />
@@ -51,13 +53,11 @@
       <item value="radio" />
       <item value="radio_rate" />
       <item value="_radio_rate" />
-      <item value="commision_radio_rate" />
-      <item value="你好" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="787" />
-        <entry key="ENGLISH" value="782" />
+        <entry key="CHINESE" value="798" />
+        <entry key="ENGLISH" value="793" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
