@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="30" />
       <item value="标的" />
       <item value="游标" />
       <item value="biao'di" />
@@ -52,11 +53,10 @@
       <item value="佣金旅" />
       <item value="yong'ji" />
       <item value="rate" />
-      <item value="rae" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="818" />
+        <entry key="CHINESE" value="819" />
         <entry key="ENGLISH" value="813" />
         <entry key="ESPERANTO" value="49" />
       </map>
