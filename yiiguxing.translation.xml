@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="数据组装" />
+      <item value="的" />
+      <item value="组装" />
+      <item value="z" />
       <item value="30" />
       <item value="标的" />
       <item value="游标" />
@@ -49,15 +53,11 @@
       <item value="默认" />
       <item value="佣金lv" />
       <item value="佣金l" />
-      <item value="佣金" />
-      <item value="佣金旅" />
-      <item value="yong'ji" />
-      <item value="rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="819" />
-        <entry key="ENGLISH" value="813" />
+        <entry key="CHINESE" value="835" />
+        <entry key="ENGLISH" value="829" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
@@ -70,6 +70,11 @@
       <app-key>
         <option name="appId" value="20200311000396178" />
       </app-key>
+    </option>
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
     </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
