@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="排斥" />
+      <item value="p" />
       <item value="数据组装" />
       <item value="的" />
       <item value="组装" />
@@ -38,7 +40,6 @@
       <item value="dis" />
       <item value="提示" />
       <item value="t" />
-      <item value="排斥" />
       <item value="交集" />
       <item value="spider" />
       <item value="FAILS" />
@@ -52,12 +53,11 @@
       <item value="q" />
       <item value="默认" />
       <item value="佣金lv" />
-      <item value="佣金l" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="835" />
-        <entry key="ENGLISH" value="829" />
+        <entry key="CHINESE" value="842" />
+        <entry key="ENGLISH" value="836" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
