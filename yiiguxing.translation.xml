@@ -3,6 +3,10 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="prefix" />
+      <item value="编辑" />
+      <item value="标识" />
+      <item value="biao'shi" />
       <item value="docking" />
       <item value="Manual" />
       <item value="alter" />
@@ -49,15 +53,11 @@
       <item value="boolAccountAbnormal" />
       <item value="异常" />
       <item value="断开" />
-      <item value="d" />
-      <item value="重新" />
-      <item value="c" />
-      <item value="dis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="873" />
-        <entry key="ENGLISH" value="860" />
+        <entry key="CHINESE" value="888" />
+        <entry key="ENGLISH" value="874" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
