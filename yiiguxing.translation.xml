@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="333" />
     <histories>
+      <item value="匹配" />
       <item value="方式" />
       <item value="模式" />
       <item value="m" />
@@ -52,12 +53,11 @@
       <item value="b" />
       <item value="存在" />
       <item value="cun" />
-      <item value="api Note" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="917" />
-        <entry key="ENGLISH" value="901" />
+        <entry key="CHINESE" value="922" />
+        <entry key="ENGLISH" value="906" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
