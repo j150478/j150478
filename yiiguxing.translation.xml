@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="解除绑定" />
+      <item value="解除" />
+      <item value="Bind" />
+      <item value="单独" />
+      <item value="d" />
       <item value="canal" />
       <item value="匹配" />
       <item value="方式" />
@@ -49,16 +54,11 @@
       <item value="commiss" />
       <item value="commisionRate" />
       <item value="减" />
-      <item value="jian" />
-      <item value="commissionRate" />
-      <item value="补充登录" />
-      <item value="b" />
-      <item value="存在" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="928" />
-        <entry key="ENGLISH" value="911" />
+        <entry key="CHINESE" value="942" />
+        <entry key="ENGLISH" value="924" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
