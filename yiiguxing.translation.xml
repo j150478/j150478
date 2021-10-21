@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
     <option name="newTranslationDialogX" value="429" />
-    <option name="newTranslationDialogY" value="314" />
+    <option name="newTranslationDialogY" value="152" />
     <histories>
+      <item value="佣金" />
+      <item value="commission" />
+      <item value="brokerage" />
+      <item value="commissionRate" />
       <item value="审批" />
       <item value="aduit" />
       <item value="fail" />
@@ -50,15 +55,11 @@
       <item value="数据组装" />
       <item value="的" />
       <item value="组装" />
-      <item value="z" />
-      <item value="30" />
-      <item value="标的" />
-      <item value="游标" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="970" />
-        <entry key="ENGLISH" value="950" />
+        <entry key="CHINESE" value="973" />
+        <entry key="ENGLISH" value="952" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
