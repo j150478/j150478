@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="314" />
     <histories>
+      <item value="审批" />
+      <item value="aduit" />
       <item value="fail" />
       <item value="审核" />
       <item value="待审核" />
@@ -52,13 +54,11 @@
       <item value="30" />
       <item value="标的" />
       <item value="游标" />
-      <item value="biao'di" />
-      <item value="正常" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="962" />
-        <entry key="ENGLISH" value="942" />
+        <entry key="CHINESE" value="970" />
+        <entry key="ENGLISH" value="950" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
