@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="152" />
     <histories>
+      <item value="开通时间" />
       <item value="desc" />
       <item value="applyment" />
       <item value="Deployment" />
@@ -54,12 +55,11 @@
       <item value="Manual" />
       <item value="alter" />
       <item value="al" />
-      <item value="aly" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1060" />
-        <entry key="ENGLISH" value="1035" />
+        <entry key="CHINESE" value="1068" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
