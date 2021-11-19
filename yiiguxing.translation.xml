@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="429" />
     <option name="newTranslationDialogY" value="152" />
     <histories>
+      <item value="FLOAT" />
       <item value="cache " />
       <item value="d" />
       <item value="审批" />
@@ -54,11 +55,10 @@
       <item value="disconnect" />
       <item value="供应商" />
       <item value="gong" />
-      <item value="g" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1100" />
+        <entry key="CHINESE" value="1101" />
         <entry key="ENGLISH" value="1071" />
         <entry key="ESPERANTO" value="49" />
       </map>
