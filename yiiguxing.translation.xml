@@ -2,9 +2,10 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
-    <option name="newTranslationDialogX" value="429" />
-    <option name="newTranslationDialogY" value="152" />
+    <option name="newTranslationDialogX" value="434" />
+    <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="pub" />
       <item value="搜索" />
       <item value="s" />
       <item value="FLOAT" />
@@ -54,12 +55,11 @@
       <item value="方式" />
       <item value="模式" />
       <item value="m" />
-      <item value="disconnect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1107" />
-        <entry key="ENGLISH" value="1077" />
+        <entry key="CHINESE" value="1111" />
+        <entry key="ENGLISH" value="1080" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
