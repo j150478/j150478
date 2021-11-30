@@ -5,9 +5,12 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="入网信息" />
+      <item value="申请" />
+      <item value="申请单" />
+      <item value="s" />
       <item value="pub" />
       <item value="搜索" />
-      <item value="s" />
       <item value="FLOAT" />
       <item value="cache " />
       <item value="d" />
@@ -24,7 +27,6 @@
       <item value="desc" />
       <item value="applyment" />
       <item value="Deployment" />
-      <item value="申请" />
       <item value="WAIT_APPROVAL" />
       <item value="是否有效" />
       <item value="实际上失败的" />
@@ -53,13 +55,11 @@
       <item value="canal" />
       <item value="匹配" />
       <item value="方式" />
-      <item value="模式" />
-      <item value="m" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1111" />
-        <entry key="ENGLISH" value="1080" />
+        <entry key="CHINESE" value="1130" />
+        <entry key="ENGLISH" value="1099" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
