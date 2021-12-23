@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="Today Checkout" />
+      <item value="TodayCheckout" />
+      <item value="Toda yCheckout" />
+      <item value="boolTodayCheckout" />
+      <item value="提前退房" />
+      <item value="ti" />
+      <item value="t" />
       <item value="exclude" />
       <item value="协议文档" />
       <item value="x" />
@@ -48,18 +55,11 @@
       <item value="brokerage" />
       <item value="commissionRate" />
       <item value="aduit" />
-      <item value="fail" />
-      <item value="审核" />
-      <item value="待审核" />
-      <item value="SUCCESS" />
-      <item value="ASYNC_" />
-      <item value="ASYNC_SUCCESS" />
-      <item value="解除" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1151" />
-        <entry key="ENGLISH" value="1120" />
+        <entry key="CHINESE" value="1166" />
+        <entry key="ENGLISH" value="1134" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
