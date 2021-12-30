@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="地区" />
+      <item value="省份" />
       <item value="hello" />
       <item value="hellp" />
       <item value="night" />
@@ -53,13 +55,11 @@
       <item value="分发" />
       <item value="是关联" />
       <item value="融合" />
-      <item value="r" />
-      <item value="佣金" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1181" />
-        <entry key="ENGLISH" value="1146" />
+        <entry key="CHINESE" value="1203" />
+        <entry key="ENGLISH" value="1168" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
