@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="async" />
+      <item value="异步" />
+      <item value="sync" />
       <item value="数据" />
       <item value="source" />
       <item value="地区" />
@@ -52,14 +55,11 @@
       <item value="实际上失败的" />
       <item value="无限" />
       <item value="wu'xian" />
-      <item value="无线" />
-      <item value="多库存" />
-      <item value="分发" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1211" />
-        <entry key="ENGLISH" value="1175" />
+        <entry key="CHINESE" value="1226" />
+        <entry key="ENGLISH" value="1189" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
