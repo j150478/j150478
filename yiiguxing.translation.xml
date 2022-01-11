@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="zhi'dong" />
+      <item value="起停" />
+      <item value="起ting" />
+      <item value="qi" />
+      <item value="qi'tong" />
       <item value="停用" />
       <item value="过期" />
       <item value="正式" />
@@ -50,16 +55,11 @@
       <item value="FLOAT" />
       <item value="cache " />
       <item value="d" />
-      <item value="审批" />
-      <item value="shen'pi" />
-      <item value="area" />
-      <item value="address" />
-      <item value="解除绑定" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1283" />
-        <entry key="ENGLISH" value="1242" />
+        <entry key="CHINESE" value="1300" />
+        <entry key="ENGLISH" value="1259" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
