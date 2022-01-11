@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="停用" />
+      <item value="过期" />
+      <item value="正式" />
+      <item value="正式使用" />
+      <item value="试用" />
+      <item value="shi'yong" />
       <item value="整数" />
       <item value="calendar" />
       <item value="reserved" />
@@ -49,17 +55,11 @@
       <item value="area" />
       <item value="address" />
       <item value="解除绑定" />
-      <item value="解绑" />
-      <item value="市" />
-      <item value="shi" />
-      <item value="province" />
-      <item value="开通时间" />
-      <item value="desc" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1256" />
-        <entry key="ENGLISH" value="1215" />
+        <entry key="CHINESE" value="1283" />
+        <entry key="ENGLISH" value="1242" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
