@@ -5,6 +5,30 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="packageCollect" />
+      <item value="放入背包" />
+      <item value="使用" />
+      <item value="use" />
+      <item value="应用" />
+      <item value="应用&#10;" />
+      <item value="medial" />
+      <item value="luckWord" />
+      <item value="抽取" />
+      <item value="次数" />
+      <item value="参与商家" />
+      <item value="弹窗" />
+      <item value="弹床" />
+      <item value="弹框" />
+      <item value="tan" />
+      <item value="抽奖" />
+      <item value="抽" />
+      <item value="弹出" />
+      <item value="弹出抽奖" />
+      <item value="s" />
+      <item value="t" />
+      <item value="开屏" />
+      <item value="kai'pin" />
+      <item value="SOURCE&#10;" />
       <item value="加密" />
       <item value="加密秘" />
       <item value="j" />
@@ -31,41 +55,17 @@
       <item value="async" />
       <item value="异步" />
       <item value="sync" />
-      <item value="数据" />
-      <item value="source" />
-      <item value="地区" />
-      <item value="省份" />
-      <item value="hello" />
-      <item value="hellp" />
-      <item value="night" />
-      <item value="提前" />
-      <item value="t" />
-      <item value="Today Checkout" />
-      <item value="TodayCheckout" />
-      <item value="Toda yCheckout" />
-      <item value="boolTodayCheckout" />
-      <item value="提前退房" />
-      <item value="ti" />
-      <item value="exclude" />
-      <item value="协议文档" />
-      <item value="x" />
-      <item value="MINI ALIPAY QUERY BUILD VERSION" />
-      <item value="排队" />
-      <item value="入网信息" />
-      <item value="申请" />
-      <item value="申请单" />
-      <item value="s" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1321" />
-        <entry key="ENGLISH" value="1280" />
+        <entry key="CHINESE" value="1415" />
+        <entry key="ENGLISH" value="1369" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1641779155069" />
+    <option name="lastTrimTime" value="1642218399430" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
