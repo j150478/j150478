@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="434" />
     <option name="newTranslationDialogY" value="196" />
     <histories>
+      <item value="剩余次数" />
       <item value="参与" />
       <item value="packageCollect" />
       <item value="放入背包" />
@@ -54,12 +55,11 @@
       <item value="Major" />
       <item value="专业" />
       <item value="async" />
-      <item value="异步" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1421" />
-        <entry key="ENGLISH" value="1375" />
+        <entry key="CHINESE" value="1427" />
+        <entry key="ENGLISH" value="1381" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
