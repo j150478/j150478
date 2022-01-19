@@ -5,6 +5,19 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="backdrop" />
+      <item value="背景" />
+      <item value="bei'jing" />
+      <item value="bei'jin" />
+      <item value="be'jin" />
+      <item value="b" />
+      <item value="中部" />
+      <item value="zhong'bu" />
+      <item value="居中" />
+      <item value="jv" />
+      <item value="底部" />
+      <item value="di" />
+      <item value="d" />
       <item value="position" />
       <item value="位置" />
       <item value="`" />
@@ -42,24 +55,11 @@
       <item value="SOURCE&#10;" />
       <item value="加密" />
       <item value="加密秘" />
-      <item value="j" />
-      <item value="过期" />
-      <item value="生效" />
-      <item value="shen'xiao" />
-      <item value="zhi'dong" />
-      <item value="起停" />
-      <item value="起ting" />
-      <item value="qi" />
-      <item value="qi'tong" />
-      <item value="停用" />
-      <item value="正式" />
-      <item value="正式使用" />
-      <item value="试用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1473" />
-        <entry key="ENGLISH" value="1426" />
+        <entry key="CHINESE" value="1512" />
+        <entry key="ENGLISH" value="1465" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
