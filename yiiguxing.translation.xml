@@ -2,9 +2,16 @@
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
     <option name="newTranslationDialogHeight" value="266" />
-    <option name="newTranslationDialogX" value="434" />
-    <option name="newTranslationDialogY" value="196" />
+    <option name="newTranslationDialogX" value="428" />
+    <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="position" />
+      <item value="位置" />
+      <item value="`" />
+      <item value="zi" />
+      <item value="字体粗细" />
+      <item value="字体" />
+      <item value="bold" />
       <item value="假数据" />
       <item value="预设" />
       <item value="抽奖" />
@@ -48,18 +55,11 @@
       <item value="正式" />
       <item value="正式使用" />
       <item value="试用" />
-      <item value="shi'yong" />
-      <item value="整数" />
-      <item value="calendar" />
-      <item value="reserved" />
-      <item value="组装" />
-      <item value="partition" />
-      <item value="Major" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1451" />
-        <entry key="ENGLISH" value="1405" />
+        <entry key="CHINESE" value="1473" />
+        <entry key="ENGLISH" value="1426" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
