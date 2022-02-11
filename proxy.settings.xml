@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="https://service-d77cwk1a-1303886373.gz.apigw.tencentcs.com/link/epenP2a8d1zgX21z?list=shadowrocket&amp;extend=1" />
+  </component>
+</application>
