@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="resolve" />
       <item value="Applyment" />
       <item value="Credentials" />
       <item value="YopAppConfig your app config contains appkey and your private keys" />
@@ -54,11 +55,10 @@
       <item value="放入背包" />
       <item value="使用" />
       <item value="use" />
-      <item value="应用" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1569" />
+        <entry key="CHINESE" value="1570" />
         <entry key="ENGLISH" value="1515" />
         <entry key="ESPERANTO" value="49" />
       </map>
