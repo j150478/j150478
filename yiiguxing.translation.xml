@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="Business" />
       <item value="房费" />
       <item value="房fei" />
       <item value="fang" />
@@ -54,11 +55,10 @@
       <item value="zi" />
       <item value="字体粗细" />
       <item value="字体" />
-      <item value="bold" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1590" />
+        <entry key="CHINESE" value="1591" />
         <entry key="ENGLISH" value="1533" />
         <entry key="ESPERANTO" value="49" />
       </map>
