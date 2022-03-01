@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="房费明细" />
+      <item value="f" />
       <item value="平均每日" />
       <item value="平均" />
       <item value="累计出售" />
@@ -53,13 +55,11 @@
       <item value="背景" />
       <item value="bei'jing" />
       <item value="bei'jin" />
-      <item value="be'jin" />
-      <item value="b" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1601" />
-        <entry key="ENGLISH" value="1541" />
+        <entry key="CHINESE" value="1609" />
+        <entry key="ENGLISH" value="1549" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
