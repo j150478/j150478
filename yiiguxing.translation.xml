@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="趋势" />
       <item value="MNOTE" />
       <item value="МНОТЕ" />
       <item value=" Keeper" />
@@ -54,12 +55,11 @@
       <item value="cert" />
       <item value="_cert" />
       <item value="PLATFORM_cert" />
-      <item value="PLATFORM_c" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1638" />
-        <entry key="ENGLISH" value="1575" />
+        <entry key="CHINESE" value="1644" />
+        <entry key="ENGLISH" value="1581" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
