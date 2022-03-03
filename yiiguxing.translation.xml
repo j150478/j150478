@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="428" />
     <option name="newTranslationDialogY" value="206" />
     <histories>
+      <item value="项目" />
+      <item value="x" />
       <item value="趋势" />
       <item value="MNOTE" />
       <item value="МНОТЕ" />
@@ -53,13 +55,11 @@
       <item value="YopAppConfig your app config contains appkey and your private keys" />
       <item value="you can fetch the config from your own store(your db or other place)" />
       <item value="cert" />
-      <item value="_cert" />
-      <item value="PLATFORM_cert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1644" />
-        <entry key="ENGLISH" value="1581" />
+        <entry key="CHINESE" value="1651" />
+        <entry key="ENGLISH" value="1588" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
