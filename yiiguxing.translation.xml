@@ -5,6 +5,13 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="297" />
     <histories>
+      <item value="分配" />
+      <item value="排房" />
+      <item value="pai'fang" />
+      <item value="未" />
+      <item value="未排" />
+      <item value="未排放" />
+      <item value="w" />
       <item value="住宿" />
       <item value="z" />
       <item value="住" />
@@ -48,18 +55,11 @@
       <item value="平均每日" />
       <item value="平均" />
       <item value="累计出售" />
-      <item value="adr" />
-      <item value="ad" />
-      <item value="经营指标" />
-      <item value="pen" />
-      <item value="hidden meaning" />
-      <item value="essay" />
-      <item value="theory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1736" />
-        <entry key="ENGLISH" value="1671" />
+        <entry key="CHINESE" value="1757" />
+        <entry key="ENGLISH" value="1692" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
