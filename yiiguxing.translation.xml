@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="297" />
     <histories>
+      <item value="营业汇总" />
+      <item value="客房" />
+      <item value="客房营业" />
       <item value="合计" />
       <item value="计算" />
       <item value="Consume" />
@@ -52,14 +55,11 @@
       <item value="philosophy" />
       <item value="policy" />
       <item value="Business" />
-      <item value="房费" />
-      <item value="房fei" />
-      <item value="fang" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1721" />
-        <entry key="ENGLISH" value="1656" />
+        <entry key="CHINESE" value="1727" />
+        <entry key="ENGLISH" value="1662" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
