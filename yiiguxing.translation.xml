@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogCollapseDictViewer" value="false" />
-    <option name="newTranslationDialogHeight" value="300" />
+    <option name="newTranslationDialogHeight" value="363" />
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="297" />
     <histories>
+      <item value="parameter" />
+      <item value="参数" />
+      <item value="Param" />
       <item value="FREEZED" />
       <item value="结账" />
       <item value="j" />
@@ -52,14 +55,11 @@
       <item value="bill Keepper Flow" />
       <item value="bill KeepperFlow" />
       <item value="billKeepperFlow" />
-      <item value="Keepper" />
-      <item value="储值" />
-      <item value="chu" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1797" />
-        <entry key="ENGLISH" value="1731" />
+        <entry key="CHINESE" value="1805" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
