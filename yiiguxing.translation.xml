@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="九" />
+      <item value="jiu" />
+      <item value="9" />
       <item value="前十" />
       <item value="参与" />
       <item value="排列" />
@@ -52,14 +55,11 @@
       <item value="项目" />
       <item value="x" />
       <item value="趋势" />
-      <item value="MNOTE" />
-      <item value="МНОТЕ" />
-      <item value=" Keeper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1822" />
-        <entry key="ENGLISH" value="1756" />
+        <entry key="CHINESE" value="1828" />
+        <entry key="ENGLISH" value="1762" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
