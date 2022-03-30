@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="入住类型" />
+      <item value="r" />
       <item value="九" />
       <item value="jiu" />
       <item value="9" />
@@ -53,13 +55,11 @@
       <item value="前一天" />
       <item value="单天" />
       <item value="项目" />
-      <item value="x" />
-      <item value="趋势" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1828" />
-        <entry key="ENGLISH" value="1762" />
+        <entry key="CHINESE" value="1833" />
+        <entry key="ENGLISH" value="1767" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
