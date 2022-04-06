@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Ragequit" />
+      <item value="Population" />
       <item value="入住类型" />
       <item value="r" />
       <item value="九" />
@@ -53,12 +55,10 @@
       <item value="储蓄" />
       <item value="c" />
       <item value="前一天" />
-      <item value="单天" />
-      <item value="项目" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1833" />
+        <entry key="CHINESE" value="1835" />
         <entry key="ENGLISH" value="1767" />
         <entry key="ESPERANTO" value="49" />
       </map>
