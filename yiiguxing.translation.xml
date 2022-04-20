@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="515" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="biotech" />
+      <item value="bi" />
       <item value="fetish" />
       <item value="Putaway" />
       <item value="官方" />
@@ -53,12 +55,10 @@
       <item value="Consume" />
       <item value="违约金" />
       <item value="flow" />
-      <item value="income" />
-      <item value="Receipts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1876" />
+        <entry key="CHINESE" value="1877" />
         <entry key="ENGLISH" value="1805" />
         <entry key="ESPERANTO" value="49" />
       </map>
