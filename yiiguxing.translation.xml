@@ -76,6 +76,5 @@
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
     <option name="translateDocumentation" value="true" />
-    <option name="translator" value="BAIDU" />
   </component>
 </application>
