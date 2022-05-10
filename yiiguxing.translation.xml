@@ -75,6 +75,5 @@
     </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
-    <option name="translateDocumentation" value="true" />
   </component>
 </application>
