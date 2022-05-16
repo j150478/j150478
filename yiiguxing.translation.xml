@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Returns the character (Unicode code point) at the specified index. The index refers to {@code char} values (Unicode code units) and ranges from {@code 0} to {@link length()}{@code - 1}. &lt;p&gt; If the {@code char} value specified at the given index is in the high-surrogate range, the following index is less than the length of this {@code String}, and the {@code char} value at the following index is in the low-surrogate range, then the supplementary code point corresponding to this surrogate pair is returned. Otherwise, the {@code char} value at the given index is returned. @param index the index to the {@code char} values @return the code point value of the character at the {@code index} @exception IndexOutOfBoundsException if the {@code index} argument is negative or not less than the length of this string. @since 1.5" />
       <item value="前面" />
       <item value="website" />
       <item value="Guardian" />
@@ -54,12 +55,11 @@
       <item value="未排" />
       <item value="未排放" />
       <item value="w" />
-      <item value="住宿" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1920" />
-        <entry key="ENGLISH" value="1846" />
+        <entry key="ENGLISH" value="1847" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
