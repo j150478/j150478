@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="前面" />
       <item value="website" />
       <item value="Guardian" />
       <item value="gudian" />
@@ -54,18 +55,17 @@
       <item value="未排放" />
       <item value="w" />
       <item value="住宿" />
-      <item value="z" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1906" />
-        <entry key="ENGLISH" value="1832" />
+        <entry key="CHINESE" value="1920" />
+        <entry key="ENGLISH" value="1846" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1652075989534" />
+    <option name="lastTrimTime" value="1652695000808" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
