@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="This is just my personal goal" />
+      <item value="Personally" />
+      <item value="eroticism" />
+      <item value="eroticism," />
+      <item value="As for the game cycle of Ver. 0.3.0, I envision a simple gameplay where you warp to each character's room and defeat enemies one after another, without the uselessly large map and day/night system like in Ver. 0.2.0. I envision small areas like Herba's store being created for each character." />
+      <item value="areas" />
+      <item value="I've always wanted to have a succubus concept character someday, and I'm excited to see it implemented! She is the ideal succubus" />
+      <item value="In the future, when an episode is completed, I would like to release it as a single game" />
+      <item value="EPISODE" />
+      <item value="Next month, I will be working on a FinishedVer to be released on Steam. There will be no additional scenes, etc. Basically, I will release a compilation of what I have made so far." />
+      <item value="adjust" />
+      <item value="I will adjust the details. And I After that is done, I will start working on Ver 0.3.0." />
+      <item value="I will release a compilation of what I have made so far" />
+      <item value="additional scenes" />
       <item value="Returns the character (Unicode code point) at the specified index. The index refers to {@code char} values (Unicode code units) and ranges from {@code 0} to {@link length()}{@code - 1}. &lt;p&gt; If the {@code char} value specified at the given index is in the high-surrogate range, the following index is less than the length of this {@code String}, and the {@code char} value at the following index is in the low-surrogate range, then the supplementary code point corresponding to this surrogate pair is returned. Otherwise, the {@code char} value at the given index is returned. @param index the index to the {@code char} values @return the code point value of the character at the {@code index} @exception IndexOutOfBoundsException if the {@code index} argument is negative or not less than the length of this string. @since 1.5" />
       <item value="前面" />
       <item value="website" />
@@ -41,25 +55,11 @@
       <item value="参数" />
       <item value="Param" />
       <item value="FREEZED" />
-      <item value="结账" />
-      <item value="j" />
-      <item value="bill" />
-      <item value="bi." />
-      <item value="消费" />
-      <item value="initialize" />
-      <item value="初始化" />
-      <item value="init" />
-      <item value="分配" />
-      <item value="pai'fang" />
-      <item value="未" />
-      <item value="未排" />
-      <item value="未排放" />
-      <item value="w" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1920" />
-        <entry key="ENGLISH" value="1847" />
+        <entry key="CHINESE" value="1934" />
+        <entry key="ENGLISH" value="1849" />
         <entry key="ESPERANTO" value="49" />
       </map>
     </option>
