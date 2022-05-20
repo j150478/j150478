@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Tripods" />
       <item value="Gear Sets" />
       <item value="Alternative" />
       <item value="Standard" />
@@ -54,11 +55,10 @@
       <item value="r" />
       <item value="九" />
       <item value="jiu" />
-      <item value="9" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1944" />
+        <entry key="CHINESE" value="1945" />
         <entry key="ENGLISH" value="1849" />
         <entry key="ESPERANTO" value="49" />
       </map>
