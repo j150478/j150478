@@ -5,6 +5,16 @@
     <option name="newTranslationDialogX" value="478" />
     <option name="newTranslationDialogY" value="249" />
     <histories>
+      <item value="Gear Sets" />
+      <item value="Alternative" />
+      <item value="Standard" />
+      <item value="These Engravings should only be used at Engraving Level 3." />
+      <item value="provides an attack power increase at the cost of 25% healing penalty" />
+      <item value="The Advanced Engravings are the Best in Slot setup for Tier 3 content. The penalties attached to these can be hard to overcome for new players. Only use the following engravings if you are experienced with the boss fights!" />
+      <item value="Starter Engravings" />
+      <item value="Add-On Endgame Engravings" />
+      <item value="Advanced Engravings" />
+      <item value="Advanced" />
       <item value="This is just my personal goal" />
       <item value="Personally" />
       <item value="eroticism" />
@@ -45,20 +55,10 @@
       <item value="九" />
       <item value="jiu" />
       <item value="9" />
-      <item value="前十" />
-      <item value="参与" />
-      <item value="排列" />
-      <item value="排房" />
-      <item value="未排房" />
-      <item value="we" />
-      <item value="parameter" />
-      <item value="参数" />
-      <item value="Param" />
-      <item value="FREEZED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1934" />
+        <entry key="CHINESE" value="1944" />
         <entry key="ENGLISH" value="1849" />
         <entry key="ESPERANTO" value="49" />
       </map>
