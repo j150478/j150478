@@ -65,7 +65,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1654766775132" />
+    <option name="lastTrimTime" value="1656485809389" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
@@ -75,5 +75,6 @@
     </option>
     <option name="phoneticFontFamily" value="JetBrains Mono" />
     <option name="primaryFontFamily" value="JetBrains Mono" />
+    <option name="translateDocumentation" value="true" />
   </component>
 </application>
